@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/Store/static/css/main.bab0b925.chunk.css",
-    "main.js": "/Store/static/js/main.36894009.chunk.js",
-    "main.js.map": "/Store/static/js/main.36894009.chunk.js.map",
-    "runtime-main.js": "/Store/static/js/runtime-main.98361f3c.js",
-    "runtime-main.js.map": "/Store/static/js/runtime-main.98361f3c.js.map",
-    "static/js/2.4559c82c.chunk.js": "/Store/static/js/2.4559c82c.chunk.js",
-    "static/js/2.4559c82c.chunk.js.map": "/Store/static/js/2.4559c82c.chunk.js.map",
-    "static/js/3.9dcd8e88.chunk.js": "/Store/static/js/3.9dcd8e88.chunk.js",
-    "static/js/3.9dcd8e88.chunk.js.map": "/Store/static/js/3.9dcd8e88.chunk.js.map",
+    "main.css": "/Store/static/css/main.ba268691.chunk.css",
+    "main.js": "/Store/static/js/main.2be65cbe.chunk.js",
+    "main.js.map": "/Store/static/js/main.2be65cbe.chunk.js.map",
+    "runtime-main.js": "/Store/static/js/runtime-main.9d0da85f.js",
+    "runtime-main.js.map": "/Store/static/js/runtime-main.9d0da85f.js.map",
+    "static/css/2.a95be28f.chunk.css": "/Store/static/css/2.a95be28f.chunk.css",
+    "static/js/2.565de9ea.chunk.js": "/Store/static/js/2.565de9ea.chunk.js",
+    "static/js/2.565de9ea.chunk.js.map": "/Store/static/js/2.565de9ea.chunk.js.map",
+    "static/js/3.eb30adce.chunk.js": "/Store/static/js/3.eb30adce.chunk.js",
+    "static/js/3.eb30adce.chunk.js.map": "/Store/static/js/3.eb30adce.chunk.js.map",
     "index.html": "/Store/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/Store/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.4559c82c.chunk.js.LICENSE.txt": "/Store/static/js/2.4559c82c.chunk.js.LICENSE.txt"
+    "static/css/2.a95be28f.chunk.css.map": "/Store/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.ba268691.chunk.css.map": "/Store/static/css/main.ba268691.chunk.css.map",
+    "static/js/2.565de9ea.chunk.js.LICENSE.txt": "/Store/static/js/2.565de9ea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Store/static/media/shopping-cart-white-icon.cdeed6fa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98361f3c.js",
-    "static/js/2.4559c82c.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.36894009.chunk.js"
+    "static/js/runtime-main.9d0da85f.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.565de9ea.chunk.js",
+    "static/css/main.ba268691.chunk.css",
+    "static/js/main.2be65cbe.chunk.js"
   ]
 }
