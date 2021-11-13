@@ -1,11 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'antd/dist/antd.css';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {store} from "./app/store";
+import {Provider} from "react-redux";
+import {BrowserRouter} from "react-router-dom";
+import {App} from "./app/App";
 
 ReactDOM.render(
-    <App />,
+    <BrowserRouter>
+        <Provider store={store}>
+            <App/>
+        </Provider>
+    </BrowserRouter>,
   document.getElementById('root')
 );
 
