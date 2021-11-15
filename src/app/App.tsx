@@ -19,7 +19,7 @@ export const App = React.memo(() => {
 
 
 
-    
+
     let routes = useRoutes([
         {path: '/', element: <Home/>},
     ]);
